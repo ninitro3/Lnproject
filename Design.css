@@ -72,7 +72,7 @@ table {
     }
 
     .pic {
-        margin-top: -45%;
+        margin-top: -35%;
         margin-right: -8%;
     }
 
@@ -91,7 +91,8 @@ table {
 
     td {
         width: 50%;
-        font-size: 60%;
+        font-size: 50%;
+        padding-top: 10%;
     }
 
     .btn1 {
